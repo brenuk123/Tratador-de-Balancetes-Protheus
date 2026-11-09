@@ -1,0 +1,6 @@
+{
+  "name": "Tratador de Balancetes Protheus",
+  "description": "Higienização e análise de balancetes contábeis exportados pelo TOTVS Protheus: remoção de cabeçalhos repetidos e linhas vazias, unificação de contas e detecção de saldos com natureza invertida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
